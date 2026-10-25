@@ -389,6 +389,7 @@ plt.axis("off")
 <img width="245" height="341" alt="Screenshot 2026-10-24 111159" src="https://github.com/user-attachments/assets/8c362927-d9e9-45fb-baef-d25a02f08ad5" />
 
 #12. Vertically flipped image displayed.
+
 <img width="302" height="340" alt="Screenshot 2026-10-24 111205" src="https://github.com/user-attachments/assets/0d25b457-5220-4991-8026-72266c79efa2" />
 
 
